@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>My Website</title>
+</head>
+<body style="    background-color: black; font-family: 'Press Start 2P'; sans-serif; font-size:x-large; text-align: center">
+
+    <h1><font color="white">Hello, welcome to cotordo games</font></h1>
+    <p><font color="white">Hi, I'm Djalroid, and I like to make games. I have made different types in my experience, such as:</font></p>
+    <h2><font color="white">Scratch Games</font></h2>
+    <p><font color="white">My introduction to scratch was at aproxamatly 3 am, Tuesday, some time in 2019.</font></p>
+    <p><font color="white"> This was my first exposure to game dev, because it was so easy, I even used turbowarp to compile in to a nwjs exe file</font></p>
+    <h2><font color="white">GameMaker</font></h2>
+    <p><font color="white">When you want something the you can use to make games, what do you search up?</font></p>
+    <p><font color="white">well, I wanted mario maker, but for games from scratch, so I searched up <font color="green">"Game Maker Free"</font></font></p>
+    <p><font color="white">I used GML visual to make a platforming demo, this was the first REAL game engine I used, even though it never went anywhere</font></p>
+    <p><font color="white">I did, however, go back to it recently for a challenge. GameMaker is not the engine to use if your like me.</font></p>
+    <h2><font color="white">Unity</font></h2>
+    <p><font color="white">I use Unity currently. I first used it in 2020(i think, TBH i cant remember), april. and at first, I used bolt (now known as "unity visual scripting") it was similar to GML visual</font></p>
+    <p><font color="white">now, I program in c#(unity's native language). the language was easy to pick up on. voids are your best friend, and semicolons are annoying.</font></p>
+    <p><font color="white">Now Unity's description WILL be longer, because I have been using it for 2 years now. My first project was a crappy platformer with even crappier collisions</font></p>
+    <p><font color="white">now, I am working on an rpg platformer similar to cave story. It is styled after Super Mario World and pizza tower, with an emphisis on story</font></p>
+    <p><font color="white">Another current project that I'm working on is breakout paradise. breakout paradise is breakout but with a shop for new balls, and realistic physics.</font></p>
+    <p><font color="white">This project was mainly meant to test my programming skills and see what it takes to release a fun game.</font></p>
+    <a href="https://discord.gg/CbfUstNgdS">JOIN THE DISCORD BRO!</a>
+    <p></p>
+    <iframe frameborder="0" src="https://itch.io/embed/2834853?dark=true" width="552" height="167"><a href="https://thebigman477.itch.io/cubon-early-test-build">Cubon Early Test Build by thebigman477</a></iframe>
+    <p></p>
+    <p><font color="yellow">(c) 1993 Cotordo games inc. all rights reserved.</font></p>
+    <p style="font-size:medium; color: darkred">(It isn't copyrighted, but I created it and if you pirate this YOU WILL FACE CONSIQUENCES!)</p>
+</body>
+</html>
